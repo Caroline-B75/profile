@@ -1,5 +1,5 @@
 body {
-  background-color: #fdfdfd;
+  background-color: #9e0059;
   color: #22252d;
   font-family: 'Noto+Sans+JP', sans-serif;
   font-size: 17px;
@@ -11,12 +11,12 @@ h1, h2, h3 {
   font-family: 'Noto+Sans+JP', sans-serif;
 }
 h1 {
-  color: #118ab2;
+  color: #ff0054;
   font-size: 32px;
   font-weight: 700;
 }
 h2 {
-  color: #06d6a0;
+  color: #ff5400;
   font-size: 20px;
   font-weight: lighter;
   font-weight: 500;
@@ -37,7 +37,7 @@ a:hover {
 }
 
 .btn-pink {
-  background-color: #ef476f;
+  background-color: #ffbd00;
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
@@ -45,7 +45,7 @@ a:hover {
 }
 
 .btn-pink:hover {
-  background-color: #f5003a;
+  background-color: #FFBD00;
   color: white;
 }
 
